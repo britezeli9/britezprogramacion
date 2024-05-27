@@ -1,2 +1,2 @@
 # britezprogramacion
-ejerciocios de programacion
+ejercicios de programacion
